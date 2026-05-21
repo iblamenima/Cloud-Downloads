@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8009",
+  "folder": "YouTube__watch_20260521232538_42294b",
+  "base_name": "Mariah_Carey_-_My_All_YYGiKH6dbGs_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/iblamenima/Cloud-Downloads/releases/tag/co-releases-v1-8009",
+  "files": [
+    {
+      "name": "Mariah_Carey_-_My_All_YYGiKH6dbGs_480p.mp4",
+      "url": "https://github.com/iblamenima/Cloud-Downloads/releases/download/co-releases-v1-8009/Mariah_Carey_-_My_All_YYGiKH6dbGs_480p.mp4",
+      "api_url": "https://api.github.com/repos/iblamenima/Cloud-Downloads/releases/assets/426561176",
+      "id": 426561176,
+      "size": 5781306,
+      "download_count": 0
+    }
+  ]
+}
