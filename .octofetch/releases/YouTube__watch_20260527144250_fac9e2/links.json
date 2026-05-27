@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3862",
+  "folder": "YouTube__watch_20260527144250_fac9e2",
+  "base_name": "EDGETUNNEL_(_)_9sigrUK4egA_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/iblamenima/Cloud-Downloads/releases/tag/co-releases-v1-3862",
+  "files": [
+    {
+      "name": "EDGETUNNEL_._._9sigrUK4egA_1080p.mp4",
+      "url": "https://github.com/iblamenima/Cloud-Downloads/releases/download/co-releases-v1-3862/EDGETUNNEL_._._9sigrUK4egA_1080p.mp4",
+      "api_url": "https://api.github.com/repos/iblamenima/Cloud-Downloads/releases/assets/431172195",
+      "id": 431172195,
+      "size": 18856490,
+      "download_count": 0
+    }
+  ]
+}
